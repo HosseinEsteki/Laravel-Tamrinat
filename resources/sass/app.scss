@@ -1,0 +1,18 @@
+// Fonts
+@import url('https://fonts.bunny.net/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
+
+//fontAwesome
+@import '../fontawesome-pro/css/all.css';
+
+//Select2
+@import "/node_modules/select2/dist/css/select2.css";
+*{
+    box-sizing: border-box;
+}
+
